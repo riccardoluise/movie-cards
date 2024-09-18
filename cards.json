@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Reclutamento e assegnazione ruoli",
+    "info": "Formazione del team",
+    "quotes": [
+      {
+        "film": "Avengers",
+        "text": "I'm putting together a team"
+      }
+    ]
+  },
+  {
+    "title": "Arrivo del team sul luogo",
+    "info": "Primo incontro nella base operativa",
+    "quotes": [
+      {
+        "film": "Mission: Impossible",
+        "text": "Gentlemen.. welcome to Dubai"
+      },
+      {
+        "film": "Jurassic Park",
+        "text": "Welcome to Jurassic Park"
+      }
+    ]
+  },
+  {
+    "title": "Esperto del luogo o infiltrato",
+    "info": "Un elemento del team è l'esperto del contesto o un infiltrato",
+    "quotes": []
+  },
+  {
+    "title": "Momento \"Eureka\"",
+    "info": "Ho un'idea!",
+    "quotes": []
+  },
+  {
+    "title": "Analisi dell'obiettivo",
+    "info": "Punti di forza e debolezza",
+    "quotes": []
+  },
+  {
+    "title": "Presentazione del piano",
+    "info": "Quando avverrà... Allora noi...",
+    "quotes": [
+      {
+        "film": "Inception",
+        "text": "The plan is simple..."
+      },
+      {
+        "film": "Ocean's Eleven",
+        "text": "Here's how we gonna do it..."
+      }
+    ]
+  },
+  {
+    "title": "Suddivisione in fasi",
+    "info": "Fase Delta...",
+    "quotes": []
+  },
+  {
+    "title": "Piani alternativi",
+    "info": "Piano B, Piano C...",
+    "quotes": []
+  },
+  {
+    "title": "Exit strategy",
+    "info": "In caso di fallimento totale",
+    "quotes": []
+  },
+  {
+    "title": "Raccolta informazioni e materiali",
+    "info": "Cosa abbiamo, cosa ci manca",
+    "quotes": []
+  },
+  {
+    "title": "Esperti in azione",
+    "info": "Analisi sul territorio, Report degli esperti",
+    "quotes": []
+  },
+  {
+    "title": "Planimetria",
+    "info": "Studio della mappa del luogo",
+    "quotes": []
+  },
+  {
+    "title": "Gadget",
+    "info": "Scene tipiche di James Bond",
+    "quotes": []
+  },
+  {
+    "title": "Codifica",
+    "info": "Codice colore, nomi in codice, linguaggio in codice, segnali",
+    "quotes": []
+  },
+  {
+    "title": "Prova e simulazione",
+    "info": "Allenamento, studio su modellino, uso di simulatori",
+    "quotes": []
+  },
+  {
+    "title": "Sincronizzazione degli orologi",
+    "info": "Sincronizziamo gli orologi!",
+    "quotes": []
+  },
+  {
+    "title": "Checklist finale",
+    "info": "Fatto, fatto... Presente, presente...",
+    "quotes": []
+  },
+  {
+    "title": "Countdown",
+    "info": "Quanto tempo manca? Zoom su indicatore di tempo",
+    "quotes": []
+  },
+  {
+    "title": "Complicazioni impreviste",
+    "info": "Eventi inaspettati",
+    "quotes": [
+      {
+        "film": "Apollo 13",
+        "text": "Houston, we have a problem"
+      }
+    ]
+  },
+  {
+    "title": "Colpo di scena",
+    "info": "Rivelazione inaspettata",
+    "quotes": [
+      {
+        "film": "The Sixth Sense",
+        "text": "I see dead people"
+      }
+    ]
+  },
+  {
+    "title": "Tradimento nel team",
+    "info": "Scoperta di una talpa",
+    "quotes": [
+      {
+        "film": "Mission: Impossible",
+        "text": "C'è una talpa nell'operazione"
+      }
+    ]
+  },
+  {
+    "title": "Aiuto inaspettato",
+    "info": "Arrivo di un alleato imprevisto",
+    "quotes": [
+      {
+        "film": "Il Signore degli Anelli",
+        "text": "Guardate a est. All'alba del quinto giorno..."
+      }
+    ]
+  },
+  {
+    "title": "Perdita di un membro del team",
+    "info": "Un membro muore o abbandona",
+    "quotes": [
+      {
+        "film": "Armageddon",
+        "text": "Non voglio chiudere gli occhi..."
+      }
+    ]
+  },
+  {
+    "title": "Crisi di morale",
+    "info": "Il team perde fiducia",
+    "quotes": [
+      {
+        "film": "300",
+        "text": "Ci sono solo 300 di noi contro un esercito di un milione..."
+      }
+    ]
+  }
+]
